@@ -4,7 +4,7 @@ from streamlit_tree_select import tree_select
 
 st.set_page_config(layout="wide", page_title="Folder Structure Tool")
 
-st.title("Local Project Structure Generator")
+st.title("Structured Folder")
 
 
 def build_tree_and_get_paths(path):

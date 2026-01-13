@@ -52,6 +52,15 @@ StructuredFolder/
 - **No hidden files** - Automatically filters out `.git`, `.env`, and other hidden items
 - **Zero configuration** - Works out of the box
 
+## Images for Reference
+
+- **Default Method** - Selects all the contents inside the folder
+  - ![defaultwa](images\1.png)
+- **Selective files** - Deselect the unwanted folders/files from the chart as incase the script doesnt work, its a fail-safe.
+  - ![deselectwa](images/3.png)
+- **Deselect All** - Deselects all the files, added because SelectAll was an option hehehe!!
+  - ![pureKeHatawa](images/2.png)
+
 ## Installation
 
 1. Clone this repository:
