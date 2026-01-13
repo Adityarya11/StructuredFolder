@@ -2,6 +2,8 @@
 
 A simple, clean Streamlit app to visualize and share your project folder structure without the hassle.
 
+> This is a local tool that runs on your machine. It scans folders on YOUR computer, so you need to run it locally via streamlit run `app.py`. Isiliye website link nahi daala hu!
+
 ## Why I Built This
 
 I was **very much annoyed** of using and explaining the code structure of any folder and project of mine to others and specifically to AI for reasons 😉 ifykyk.
